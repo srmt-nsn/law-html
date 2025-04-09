@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-04-09",
+      "codified-date": "2024-06-02",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.15.18"
+      },
+      "publication": "publication/2025-04-09",
+      "repositories": [
+        {
+          "commit": "00be32d956620ce9d82a7162a730365e9c1b10eb",
+          "name": "srmt-nsn/law-xml"
+        },
+        {
+          "commit": "cd900bc460fe2ae0d81cd3a6d8546a077b8e70e7",
+          "name": "srmt-nsn/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://law.srmt-nsn.gov",
+      "html-bulk": "https://github.com/srmt-nsn/law-html",
+      "law-git": "https://github.com/srmt-nsn/law.git",
+      "static-assets": "https://github.com/srmt-nsn/law-static-assets",
+      "xml-bulk": "https://github.com/srmt-nsn/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2024-06-02"
+  }
+}
